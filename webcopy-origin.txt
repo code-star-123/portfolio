@@ -1,0 +1,244 @@
+Uri: https://assets.codepen.io/13471/eevee-gx.webp
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\13471\eevee-gx.webp
+Content Type: image/webp
+
+Uri: https://assets.codepen.io/13471/holo.png
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\13471\holo.png
+Content Type: image/png
+
+Uri: https://assets.codepen.io/13471/mewtwo-gx.webp
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\13471\mewtwo-gx.webp
+Content Type: image/webp
+
+Uri: https://assets.codepen.io/13471/pikachu-gx.webp
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\13471\pikachu-gx.webp
+Content Type: image/webp
+
+Uri: https://assets.codepen.io/13471/sparkles.gif
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\13471\sparkles.gif
+Content Type: image/gif
+
+Uri: https://cdn2.bulbagarden.net/upload/1/17/Cardback.jpg
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\upload\1\17\Cardback.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:900&display=swap
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\poppins\v21\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgo6eA.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\ubuntu\v20\4iCs6KVjbNBYlgo6eA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3Ttw.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\ubuntu\v20\4iCv6KVjbNBYlgoCjC3Ttw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvTtw.ttf
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvTtw.ttf
+Content Type: font/ttf
+
+Uri: https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\photo-1478760329108-5c3ed9d495a0
+Content Type: image/jpeg
+
+Uri: https://shineeworld.vercel.app/
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://shineeworld.vercel.app/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://shineeworld.vercel.app/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://shineeworld.vercel.app/res/bootstrap.min.css
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://shineeworld.vercel.app/res/cloud_stars.css
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\cloud_stars.css
+Content Type: text/css
+
+Uri: https://shineeworld.vercel.app/res/css
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\css
+Content Type: application/octet-stream
+
+Uri: https://shineeworld.vercel.app/res/css(1)
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\css(1)
+Content Type: application/octet-stream
+
+Uri: https://shineeworld.vercel.app/res/favIcon.png
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\favIcon.png
+Content Type: image/png
+
+Uri: https://shineeworld.vercel.app/res/font-awesome.min.css
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://shineeworld.vercel.app/res/GLTFLoader.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\GLTFLoader.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/gsap.min.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/hero.css
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\hero.css
+Content Type: text/css
+
+Uri: https://shineeworld.vercel.app/res/hero.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\hero.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/isotope.pkgd.min.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/jquery.magnific-popup.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/jquery.min.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/magnific-popup.css
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\magnific-popup.css
+Content Type: text/css
+
+Uri: https://shineeworld.vercel.app/res/me.webp
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\me.webp
+Content Type: image/webp
+
+Uri: https://shineeworld.vercel.app/res/normalize.min.css
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\normalize.min.css
+Content Type: text/css
+
+Uri: https://shineeworld.vercel.app/res/particles.min.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\particles.min.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/pokemon.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\pokemon.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/pokermon.css
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\pokermon.css
+Content Type: text/css
+
+Uri: https://shineeworld.vercel.app/res/portfolio.css
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\portfolio.css
+Content Type: text/css
+
+Uri: https://shineeworld.vercel.app/res/portfolio.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\portfolio.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/pricing.css
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\pricing.css
+Content Type: text/css
+
+Uri: https://shineeworld.vercel.app/res/pricing.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\pricing.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/rate_backend.webp
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\rate_backend.webp
+Content Type: image/webp
+
+Uri: https://shineeworld.vercel.app/res/rate_blockchain.avif
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\rate_blockchain.avif
+Content Type: image/avif
+
+Uri: https://shineeworld.vercel.app/res/rate_mobile.webp
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\rate_mobile.webp
+Content Type: image/webp
+
+Uri: https://shineeworld.vercel.app/res/scrollBtn.css
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\scrollBtn.css
+Content Type: text/css
+
+Uri: https://shineeworld.vercel.app/res/scrollBtn.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\scrollBtn.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/three.min.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\three.min.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/threemodel.js
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\threemodel.js
+Content Type: application/javascript
+
+Uri: https://shineeworld.vercel.app/res/w3.css
+File Name: C:\Users\PC\Documents\vercel\shineeworld.vercel.app\res\w3.css
+Content Type: text/css
+
