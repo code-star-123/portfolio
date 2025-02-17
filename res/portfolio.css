@@ -1285,7 +1285,7 @@ p {
 .description {
   display: flex;
   padding: 50px 60px 50px 0px;
-  height: 300px;
+  /* height: 300px; */
   color: var(--title-color);
   align-items: center;
 }
